@@ -9,7 +9,10 @@ The used some techs:
 - Lombok
 - Swagger
 
-The application can be tested by Swagger-UI.
-The following URL provides to test the route API.
-
+Test
+- Download the project to the local.
+- Open it by IDE (IntelliJ, etc.)
+- Run the project.
+- After startup, go to the following URL by the browser
 http://localhost:8080/swagger-ui/index.html#/route-controller/findRouteUsingGET
+- Test with the origin and destination parameters.
