@@ -15,4 +15,4 @@ Test
 - Run the project.
 - After startup, go to the following URL by the browser
 http://localhost:8080/swagger-ui/index.html#/route-controller/findRouteUsingGET
-- Test with the origin and destination parameters.
+- Test API with the origin and destination parameters.
